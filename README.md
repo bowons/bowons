@@ -13,7 +13,7 @@
 ---
 
 ## 기술 스택
-- **언어** : C, C#, C++, Java, JavaScript  
+- **언어** : C, C#, C++, Java, JavaScript, Python  
 - **게임 엔진** : Unity, Unreal Engine  
 - **네트워크 & DB** : TCP/UDP, SSL, SQLite, MySQL, Photon
 - **협업 툴** : Git, PlasticSCM, Helix P4V

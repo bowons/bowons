@@ -6,7 +6,7 @@
 - **언어** : C, C#, C++, Java, JavaScript, Python  
 - **게임 엔진** : Unity, Unreal Engine  
 - **네트워크 & DB** : TCP/UDP, SSL, SQLite, MySQL, Photon
-- **협업 툴** : Git, PlasticSCM, Helix P4V
+- **협업 툴** : Git/Github, PlasticSCM, Diversion, Anchorpoint
 - **기타** : TouchDesigner, 영상 편집 등 미디어아트 프로그램 사용경험
 ---
 

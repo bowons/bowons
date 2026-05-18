@@ -17,5 +17,5 @@
 
 ---
 
-Contact: bowons0818@outlook.kr
-블로그 : https://twitchmaster.tistory.com/
+- Contact: bowons0818@outlook.kr
+- 블로그 : https://twitchmaster.tistory.com/

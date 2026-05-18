@@ -17,5 +17,5 @@
 
 ---
 
-Contact: qh0614dd@knu.ac.kr
-
+Contact: bowons0818@outlook.kr
+블로그 : https://twitchmaster.tistory.com/
